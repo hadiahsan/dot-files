@@ -1,3 +1,4 @@
+# Configuration for bashrc
 # date and time formatting to bash history
 HISTTIMEFORMAT="%F %T "
 

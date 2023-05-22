@@ -1,1 +1,1 @@
-#zsh Configurations
+#Configurations for zsh
