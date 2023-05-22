@@ -1,2 +1,2 @@
 # dot-files
-Personalized dot-files for development
+My own personalized dot-files used for development
